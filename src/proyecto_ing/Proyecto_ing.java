@@ -16,6 +16,11 @@ public class Proyecto_ing {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        new login().show();
+    }
+
+    void show() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
     
 }
